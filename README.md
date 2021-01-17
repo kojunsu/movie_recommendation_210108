@@ -1,14 +1,17 @@
 # 영화 추천 인공지능 만들기 ([유튜브 빵형의 개발도상국](https://www.youtube.com/watch?v=mLwMe4KUZz8))
 
-## 주요 기능 
-### 1. 영화 추천
+ 
+### 프로젝트의 주요 기능
 - 이것은 영화 추천 프로젝트입니다.
 
 ![ScreenCaptureProject11](https://user-images.githubusercontent.com/62390565/104807246-e8a11280-5820-11eb-91d9-a37a83f0bbf8.gif)
 
-
+### 데이터 셋
 - The Movie Dataset : https://www.kaggle.com/rounakbanik/the-movies-dataset
+
+### 블로그
 - [공부한 내용 블로그에 작성](https://rkaclfrns.tistory.com/8)
+
 
 ```python3
 meta = pd.read_csv('C:/Users/공부용/movie_recommendation_engine/the-movies-dataset/movies_metadata.csv')
