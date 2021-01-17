@@ -13,6 +13,7 @@
 - [공부한 내용 블로그에 작성](https://rkaclfrns.tistory.com/8)
 
 
+### 코드
 ```python3
 meta = pd.read_csv('C:/Users/공부용/movie_recommendation_engine/the-movies-dataset/movies_metadata.csv')
 
